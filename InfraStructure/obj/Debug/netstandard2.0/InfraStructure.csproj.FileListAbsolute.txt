@@ -1,0 +1,12 @@
+/Users/Neox/Documents/DotNetEshop/InfraStructure/bin/Debug/netstandard2.0/InfraStructure.deps.json
+/Users/Neox/Documents/DotNetEshop/InfraStructure/bin/Debug/netstandard2.0/InfraStructure.dll
+/Users/Neox/Documents/DotNetEshop/InfraStructure/bin/Debug/netstandard2.0/InfraStructure.pdb
+/Users/Neox/Documents/DotNetEshop/InfraStructure/bin/Debug/netstandard2.0/Core.dll
+/Users/Neox/Documents/DotNetEshop/InfraStructure/bin/Debug/netstandard2.0/Core.pdb
+/Users/Neox/Documents/DotNetEshop/InfraStructure/obj/Debug/netstandard2.0/InfraStructure.csprojAssemblyReference.cache
+/Users/Neox/Documents/DotNetEshop/InfraStructure/obj/Debug/netstandard2.0/InfraStructure.csproj.CoreCompileInputs.cache
+/Users/Neox/Documents/DotNetEshop/InfraStructure/obj/Debug/netstandard2.0/InfraStructure.AssemblyInfoInputs.cache
+/Users/Neox/Documents/DotNetEshop/InfraStructure/obj/Debug/netstandard2.0/InfraStructure.AssemblyInfo.cs
+/Users/Neox/Documents/DotNetEshop/InfraStructure/obj/Debug/netstandard2.0/InfraStructure.csproj.CopyComplete
+/Users/Neox/Documents/DotNetEshop/InfraStructure/obj/Debug/netstandard2.0/InfraStructure.dll
+/Users/Neox/Documents/DotNetEshop/InfraStructure/obj/Debug/netstandard2.0/InfraStructure.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6eDFSEPCVzmKdZgYw0lJDDu5CpygIgIZZiX7mCgSX5ogRKhAys7TQojGQE32LS2YueEoudYgfJQgOscCza4E4Q==",
+  "success": true,
+  "projectFilePath": "/Users/Neox/Documents/DotNetEshop/Core/Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/Neox/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/Neox/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

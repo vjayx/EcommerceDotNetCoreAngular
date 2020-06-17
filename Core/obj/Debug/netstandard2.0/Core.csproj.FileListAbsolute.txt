@@ -1,0 +1,9 @@
+/Users/Neox/Documents/DotNetEshop/Core/bin/Debug/netstandard2.0/Core.deps.json
+/Users/Neox/Documents/DotNetEshop/Core/bin/Debug/netstandard2.0/Core.dll
+/Users/Neox/Documents/DotNetEshop/Core/bin/Debug/netstandard2.0/Core.pdb
+/Users/Neox/Documents/DotNetEshop/Core/obj/Debug/netstandard2.0/Core.csprojAssemblyReference.cache
+/Users/Neox/Documents/DotNetEshop/Core/obj/Debug/netstandard2.0/Core.csproj.CoreCompileInputs.cache
+/Users/Neox/Documents/DotNetEshop/Core/obj/Debug/netstandard2.0/Core.AssemblyInfoInputs.cache
+/Users/Neox/Documents/DotNetEshop/Core/obj/Debug/netstandard2.0/Core.AssemblyInfo.cs
+/Users/Neox/Documents/DotNetEshop/Core/obj/Debug/netstandard2.0/Core.dll
+/Users/Neox/Documents/DotNetEshop/Core/obj/Debug/netstandard2.0/Core.pdb
