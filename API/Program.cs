@@ -19,25 +19,21 @@ namespace API
             {
                 var services = scope.ServiceProvider;
                 var loggerFactory = services.GetRequiredService<ILoggerFactory>();
-            
             try
             {
                 var context = services.GetRequiredService<StoreContext>();
                 await context.Database.MigrateAsync();
                 await StoreContextSeed.SeedAsync(context,loggerFactory);
             }   
-            
-            
-            
             catch (Exception ex)
             {
                 var logger = loggerFactory.CreateLogger<Program>();
                 logger.LogError(ex,"A Error Occures during migration");
             }
+            
+            host.Run();
             }
         }
-        
-
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>

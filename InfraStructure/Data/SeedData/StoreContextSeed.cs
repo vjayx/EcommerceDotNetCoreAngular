@@ -42,11 +42,11 @@ namespace InfraStructure.Data.SeedData
                 {
                     var productsData =
                         File.ReadAllText("../InfraStructure/Data/SeedData/products.json");
-                    var products = JsonSerializer.Deserialize<List<ProductType>>(productsData);
+                    var products = JsonSerializer.Deserialize<List<Product>>(productsData);
 
                     foreach (var item in products)
                     {
-                        context.ProductTypes.Add(item);
+                        context.Products.Add(item);
                     }
                     await context.SaveChangesAsync();
                 }
